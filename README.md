@@ -49,8 +49,4 @@ source .devops/bin/activate
 * Create Flask app in Container
 * Run via kubectl
 
-[![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)][def]
-
-[def]: https://circleci.com/gh/circleci/ML_Microservices
-![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
-![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+[![brian-agent](https://circleci.com/gh/brian-agent/ML_Microservices.svg?style=svg)](https://app.circleci.com/pipelines/github/brian-agent/ML_Microservices/2/workflows/f172444f-fd6c-48ea-b1f2-4c630cbd54bc)
