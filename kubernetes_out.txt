@@ -1,0 +1,11 @@
+./run_kubernetes.sh
+error: failed to create deployment: deployments.apps "microservices" already exists
+NAME            READY   UP-TO-DATE   AVAILABLE   AGE
+microservices   1/1     1            1           83m
+nginx-app       1/1     1            1           65m
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
+Handling connection for 8000
+Handling connection for 8000
+Handling connection for 8000
